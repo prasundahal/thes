@@ -14,7 +14,7 @@ from io import BytesIO
 
 
 # Set your Google API Key and CSE ID
-API_KEY = "AIzaSyBAZeIOdcJ3T79SwDN9VUSbXjdZ9iHYgfw"
+API_KEY = "AIzaSyBAZeIOdcJ3T79SwDN9VUSbXjdZ9iHYgXw"
 CSE_ID = "515813ddb10da4cb1"
 
 # Load the data
