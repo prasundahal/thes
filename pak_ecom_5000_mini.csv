@@ -1,0 +1,11 @@
+pak_ecom_5000
+item_id,status,created_at,sku,price,qty_ordered,grand_total,increment_id,category_name_1,sales_commission_code,discount_amount,payment_method,Working Date,BI Status, MV ,Year,Month,Customer Since,M-Y,FY,Customer ID,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25
+211131,complete,7/1/2016,kreations_YI 06-L,1950.0,1,1950.0,100147443,Women's Fashion,\N,0.0,cod,7/1/2016,#REF!,"1,950",2016,7,2016-7,7-2016,FY17,1,,,,,
+211134,canceled,7/1/2016,Ego_UP0017-999-MR0,2450.0,1,2450.0,100147445,Women's Fashion,\N,0.0,cod,7/1/2016,Gross,"2,450",2016,7,2016-7,7-2016,FY17,3,,,,,
+211136,order_refunded,7/1/2016,BK7010400AG,555.0,2,1110.0,100147447,Soghaat,\N,0.0,cod,7/1/2016,Valid,"1,110",2016,7,2016-7,7-2016,FY17,5,,,,,
+211137,canceled,7/1/2016,UK_Namkino All In One 200 Gms,80.0,1,80.0,100147448,Soghaat,\N,0.0,cod,7/1/2016,Gross,80,2016,7,2016-7,7-2016,FY17,6,,,,,
+211139,complete,7/1/2016,UK_Namkino Mix Nimco 400 Gms,170.0,1,170.0,100147450,Soghaat,\N,0.0,cod,7/1/2016,Net,170,2016,7,2016-7,7-2016,FY17,6,,,,,
+211140,canceled,7/1/2016,Apple iPhone 6S 64GB,96499.0,1,96499.0,100147451,Mobiles & Tablets,\N,0.0,ublcreditcard,7/1/2016,Gross,"96,499",2016,7,2016-7,7-2016,FY17,8,,,,,
+211141,canceled,7/1/2016,Apple iPhone 6S 64GB,96499.0,1,96499.0,100147452,Mobiles & Tablets,\N,0.0,mygateway,7/1/2016,Gross,"96,499",2016,7,2016-7,7-2016,FY17,8,,,,,
+211142,complete,7/1/2016,"GFC_Pedestal Myga Cross Base (Special Guard) 24""",5500.0,1,5500.0,100147453,Appliances,\N,0.0,cod,7/1/2016,Net,"5,500",2016,7,2016-7,7-2016,FY17,9,,,,,
+211143,received,7/1/2016,BK1070200PL,210.0,1,366.0,100147454,Soghaat,\N,0.0,cod,7/1/2016,Valid,210,2016,7,2016-7,7-2016,FY17,10,,,,,
